@@ -2,7 +2,7 @@
 
 [中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
 
-A timeline app that displays calendar events on the edge of your screen.
+A timeline app that displays calendar events and information flow on the edge of your screen.
 
 > [!WARNING]
 >This is not open-source software. GitHub is used solely for issue tracking and release distribution.
