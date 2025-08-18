@@ -2,7 +2,7 @@
 
 [中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
 
-一个将日历事件显示在屏幕边缘的时间轴应用。
+一个将日历事件和信息流显示在屏幕边缘的时间轴应用。
 
 >[!WARNING]
 >本软件非开源。GitHub 仅用于问题追踪与版本发布。
