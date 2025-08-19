@@ -2,17 +2,42 @@
 
 [中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
 
-一个将日历事件和信息流显示在屏幕边缘的时间轴应用。
+SideCalendar 是一款 macOS 信息流工具，通过时间轴视图在屏幕侧边直观展示日历、提醒事项及 RSS 订阅源，并支持模块化插件扩展，帮助用户更高效地管理日程与任务。
 
 >[!WARNING]
->本软件非开源。GitHub 仅用于问题追踪与版本发布。
+>本软件为闭源软件，仓库仅用于版本发布与问题反馈。
 
 ## 最低运行需求
 macOS 14.6 (Sonoma) 或更高版本。
 
+## 安装方式
+
+### 方式一
+
+您可以通过 Homebrew 安装 SideCalendar。如果您尚未安装 Homebrew，请访问其官方网站获取安装指南。
+
+安装步骤：
+
+1. **添加 Homebrew Tap:**
+    ```bash
+      brew tap sha2kyou/casks
+    ```
+
+2. **安装 SideCalendar:**
+   ```bash
+      brew install --cask side-calendar
+   ```
+
+### 方式二
+
+在 [Release 页面](https://github.com/sha2kyou/SideCalendar/releases/latest) 手动下载最新版，将应用拖入「应用程序」目录。
+
+## 安装提示
+
+若首次运行提示 *“Apple 无法验证 SideCalendar 是否包含恶意软件”*，请前往 `系统设置 → 隐私与安全性` 并选择 **仍要打开**。
+
 ## 截图
 
-<img width="788" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4d2984d-caaf-4580-a576-2960c36009fe" />
+<img width="537" height="983" alt="image" src="https://github.com/user-attachments/assets/52fecad7-2b97-4f01-b319-96ac6dd9af41" />
 
-<img width="691" height="680" alt="image" src="https://github.com/user-attachments/assets/4aaf4563-cd98-49e1-984f-50a20d368112" />
 
