@@ -2,16 +2,41 @@
 
 [中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
 
-A timeline app that displays calendar events and information flow on the edge of your screen.
+**SideCalendar** is a macOS information stream tool that displays calendars, reminders, and RSS feeds in a timeline view along the side of the screen. It also supports modular plugin extensions, enabling users to manage schedules and tasks more efficiently.
 
-> [!WARNING]
->This is not open-source software. GitHub is used solely for issue tracking and release distribution.
+> [!WARNING]  
+> This software is closed-source. The repository is solely for release distribution and issue tracking.
 
-## Minimum system requirements
-macOS 14.6 (Sonoma) or later
+## Minimum Requirements
+macOS 14.6 (Sonoma) or later.
 
-## Screenshot
-<img width="788" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4d2984d-caaf-4580-a576-2960c36009fe" />
+## Installation
 
-<img width="691" height="680" alt="image" src="https://github.com/user-attachments/assets/4aaf4563-cd98-49e1-984f-50a20d368112" />
+### Option 1
 
+You can install **SideCalendar** via Homebrew. If you do not have Homebrew installed, please visit its official website for installation instructions.
+
+Steps:
+
+1. **Add the Homebrew Tap:**
+    ```bash
+    brew tap sha2kyou/casks
+    ```
+
+2. **Install SideCalendar:**
+    ```bash
+    brew install --cask side-calendar
+    ```
+
+### Option 2
+
+Download the latest version manually from the [Release Page](https://github.com/sha2kyou/SideCalendar/releases/latest) and drag the application into the **Applications** folder.
+
+## Installation Notes
+
+If you see the warning *“Apple cannot verify that SideCalendar is free from malware”* on first launch, go to  
+`System Settings → Privacy & Security` and select **Open Anyway**.
+
+## Screenshots
+
+<img width="537" height="983" alt="image" src="https://github.com/user-attachments/assets/52fecad7-2b97-4f01-b319-96ac6dd9af41" />
