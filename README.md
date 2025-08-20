@@ -8,7 +8,7 @@
 > This software is closed-source. The repository is solely for release distribution and issue tracking.
 
 ## Minimum Requirements
-macOS 14.6 (Sonoma) or later.
+macOS 14.0 (Sonoma) or later.
 
 ## Installation
 
