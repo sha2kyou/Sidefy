@@ -40,4 +40,14 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 <img width="537" height="983" alt="image" src="https://github.com/user-attachments/assets/52fecad7-2b97-4f01-b319-96ac6dd9af41" />
 
+## 待办项
+
+- [x] 完善插件框架
+- [x] 优化多插件加载性能
+- [ ] 完成插件市场接入，并设置默认插件
+- [ ] 完成多插件异步加载
+- [ ] 加入自定义插件功能
+- [ ] 接入 CalDav 插件
+- [ ] 完成可读性调整设置
+
 
