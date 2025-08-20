@@ -40,3 +40,13 @@ If you see the warning *“Apple cannot verify that SideCalendar is free from ma
 ## Screenshots
 
 <img width="537" height="983" alt="image" src="https://github.com/user-attachments/assets/52fecad7-2b97-4f01-b319-96ac6dd9af41" />
+
+## To-Do List
+
+- [x] Improve the plugin framework  
+- [x] Optimize multi-plugin loading performance  
+- [ ] Integrate the plugin marketplace and set default plugins  
+- [ ] Implement asynchronous multi-plugin loading  
+- [ ] Add support for custom plugins  
+- [ ] Integrate CalDav plugin  
+- [ ] Implement readability adjustment settings  
