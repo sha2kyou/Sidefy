@@ -12,7 +12,7 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 ## 安装方式
 
-### 方式一
+### 方式一（推荐）
 
 您可以通过 Homebrew 安装 SideCalendar。如果您尚未安装 Homebrew，请访问其官方网站获取安装指南。
 
