@@ -38,7 +38,11 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 ## 截图
 
-<img width="537" height="983" alt="image" src="https://github.com/user-attachments/assets/52fecad7-2b97-4f01-b319-96ac6dd9af41" />
+<img width="3842" height="2162" alt="1Capture_2025-08-22_20 48 14" src="https://github.com/user-attachments/assets/e2a66ac0-0586-481e-baad-b9add99795a1" />
+
+如果你事件比较多，彩条甚至会连成一道彩虹！
+
+<img width="3842" height="2162" alt="1Capture_2025-08-22_20 52 51" src="https://github.com/user-attachments/assets/41288a69-5724-42b7-bb2f-cd0ef5c857fd" />
 
 ## 待办项
 
