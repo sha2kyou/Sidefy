@@ -49,4 +49,6 @@ If you see the warning *“Apple cannot verify that SideCalendar is free from ma
 - [ ] Implement asynchronous multi-plugin loading  
 - [ ] Add support for custom plugins  
 - [ ] Integrate CalDav plugin  
+- [x] Integrate Github Star plugin 
+- [x] Integrate Github PR plugin   
 - [x] Implement readability adjustment settings  
