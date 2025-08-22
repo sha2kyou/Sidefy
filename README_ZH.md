@@ -1,8 +1,8 @@
-# SideCalendar
+# 边缘日历
 
 [中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
 
-SideCalendar 是一款 macOS 信息流工具，通过时间轴视图在屏幕侧边直观展示日历、提醒事项及 RSS 订阅源，并支持模块化插件扩展，帮助用户更高效地管理日程与任务。
+**边缘日历**是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。
 
 >[!WARNING]
 >本软件为闭源软件，仓库仅用于版本发布与问题反馈。
