@@ -38,6 +38,8 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 ## 截图
 
+你订阅的事件会在屏幕边缘以彩条的形式呈现。
+
 <img width="3842" height="2162" alt="1Capture_2025-08-22_20 48 14" src="https://github.com/user-attachments/assets/e2a66ac0-0586-481e-baad-b9add99795a1" />
 
 如果你事件比较多，彩条甚至会连成一道彩虹！
