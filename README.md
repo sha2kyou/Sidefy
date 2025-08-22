@@ -12,7 +12,7 @@ macOS 14.0 (Sonoma) or later.
 
 ## Installation
 
-### Option 1
+### Option 1 (Recommended)
 
 You can install **SideCalendar** via Homebrew. If you do not have Homebrew installed, please visit its official website for installation instructions.
 
