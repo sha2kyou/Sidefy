@@ -39,6 +39,8 @@ If you see the warning *“Apple cannot verify that SideCalendar is free from ma
 
 ## Screenshots
 
+The events you have subscribed to will be presented as color-coded bars along the edge of the screen.
+
 <img width="3842" height="2162" alt="1Capture_2025-08-22_20 48 14" src="https://github.com/user-attachments/assets/e2a66ac0-0586-481e-baad-b9add99795a1" />
 
 If you have many events, the colored bars may even merge into a rainbow!
