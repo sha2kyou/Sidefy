@@ -48,6 +48,8 @@ macOS 14.0 (Sonoma) 或更高版本。
 - [ ] 完成多插件异步加载
 - [ ] 加入自定义插件功能
 - [ ] 接入 CalDav 插件
+- [x] 接入 Github Star 插件
+- [x] 接入 Github PR 插件
 - [x] 完成可读性调整设置
 
 
