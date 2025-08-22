@@ -39,7 +39,11 @@ If you see the warning *“Apple cannot verify that SideCalendar is free from ma
 
 ## Screenshots
 
-<img width="537" height="983" alt="image" src="https://github.com/user-attachments/assets/52fecad7-2b97-4f01-b319-96ac6dd9af41" />
+<img width="3842" height="2162" alt="1Capture_2025-08-22_20 48 14" src="https://github.com/user-attachments/assets/e2a66ac0-0586-481e-baad-b9add99795a1" />
+
+If you have many events, the colored bars may even merge into a rainbow!
+
+<img width="3842" height="2162" alt="1Capture_2025-08-22_20 52 51" src="https://github.com/user-attachments/assets/41288a69-5724-42b7-bb2f-cd0ef5c857fd" />
 
 ## To-Do List
 
