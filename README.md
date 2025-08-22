@@ -2,7 +2,7 @@
 
 [中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
 
-**SideCalendar** is a macOS information stream tool that displays calendars, reminders, and RSS feeds in a timeline view along the side of the screen. It also supports modular plugin extensions, enabling users to manage schedules and tasks more efficiently.
+**SideCalendar** is a macOS menu bar app that unifies events and information from various sources (Calendar, Reminders, RSS, GitHub, etc.) into a dynamic screen edge information stream.
 
 > [!WARNING]  
 > This software is closed-source. The repository is solely for release distribution and issue tracking.
