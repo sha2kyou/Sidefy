@@ -57,7 +57,7 @@ There is also a **Simplie Bubble** mode, suitable for users who only want to vie
 - [x] Improve the plugin framework  
 - [x] Optimize multi-plugin loading performance  
 - [ ] Integrate the plugin marketplace and set default plugins  
-- [ ] Implement asynchronous multi-plugin loading  
+- [x] Implement asynchronous multi-plugin loading  
 - [ ] Add support for custom plugins  
 - [ ] Integrate CalDav plugin  
 - [x] Integrate Github Star plugin 
