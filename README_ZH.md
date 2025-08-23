@@ -46,6 +46,10 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 <img width="3842" height="2162" alt="1Capture_2025-08-22_20 52 51" src="https://github.com/user-attachments/assets/41288a69-5724-42b7-bb2f-cd0ef5c857fd" />
 
+还有简易气泡模式，适合只想看动态不想关注详情的情况。
+
+<img width="3842" height="2162" alt="1Capture_2025-08-23_13 14 06" src="https://github.com/user-attachments/assets/f00c6c45-a4a7-4847-b02c-f771f2622b91" />
+
 ## 待办项
 
 - [x] 完善插件框架
