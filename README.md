@@ -47,6 +47,10 @@ If you have many events, the colored bars may even merge into a rainbow!
 
 <img width="3842" height="2162" alt="1Capture_2025-08-22_20 52 51" src="https://github.com/user-attachments/assets/41288a69-5724-42b7-bb2f-cd0ef5c857fd" />
 
+There is also a **Simplie Bubble** mode, suitable for users who only want to view updates without delving into details.
+
+<img width="3842" height="2162" alt="1Capture_2025-08-23_13 14 06" src="https://github.com/user-attachments/assets/f00c6c45-a4a7-4847-b02c-f771f2622b91" />
+
 ## To-Do List
 
 - [x] Improve the plugin framework  
