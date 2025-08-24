@@ -21,12 +21,12 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 1. **添加 Homebrew Tap:**
     ```bash
-       brew tap sha2kyou/casks
+    brew tap sha2kyou/casks
     ```
 
 2. **安装 SideCalendar:**
    ```bash
-      brew install --cask side-calendar
+   brew install --cask side-calendar
    ```
 
 ### 方式二
