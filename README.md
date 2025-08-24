@@ -59,7 +59,7 @@ There is also a **Simplie Bubble** mode, suitable for users who only want to vie
 - [x] Integrate the plugin marketplace and set default plugins  
 - [x] Implement asynchronous multi-plugin loading  
 - [ ] Add support for custom plugins  
-- [ ] Integrate CalDav plugin  
+- [ ] ~~Integrate CalDav plugin~~  
 - [x] Integrate Github Star plugin 
 - [x] Integrate Github PR plugin   
 - [x] Implement readability adjustment settings  
