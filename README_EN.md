@@ -13,7 +13,7 @@ macOS 14.0 (Sonoma) or later.
 
 ## Features
 
-| Feature | Lite / GitHub | Pro |
+| Feature | lite / gitHub | pro / appstore |
 | :--- | :---: | :---: |
 | Calendar & Reminders Integration | ✅ | ✅ |
 | GitHub Integration | ❌ | ✅ |
