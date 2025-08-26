@@ -15,6 +15,10 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 ### 方式一（推荐）
 
+[![download](https://oss.tr1ck.cn/image/20250826/6VuezL.png)](https://apps.apple.com/cn/app/sidecalendar/id6751482006)
+
+### 方式二
+
 您可以通过 Homebrew 安装 SideCalendar。如果您尚未安装 Homebrew，请访问其官方网站获取安装指南。
 
 安装步骤：
@@ -28,11 +32,7 @@ macOS 14.0 (Sonoma) 或更高版本。
    ```bash
    brew install --cask side-calendar
    ```
-
-### 方式二
-
-在 [Release 页面](https://github.com/sha2kyou/SideCalendar/releases/latest) 手动下载最新版，将应用拖入「应用程序」目录。
-
+   
 ## 截图
 
 你订阅的事件会在屏幕边缘以彩条的形式呈现。
