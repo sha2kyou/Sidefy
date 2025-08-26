@@ -1,6 +1,6 @@
 # SideCalendar
 
-[中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
+[中文](https://github.com/sha2kyou/SideCalendar/blob/main/README.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README_EN.md)
 
 **SideCalendar**是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。
 
