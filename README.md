@@ -33,11 +33,6 @@ Steps:
 
 Download the latest version manually from the [Release Page](https://github.com/sha2kyou/SideCalendar/releases/latest) and drag the application into the **Applications** folder.
 
-## Installation Notes
-
-If you see the warning *“Apple cannot verify that SideCalendar is free from malware”* on first launch, go to  
-`System Settings → Privacy & Security` and select **Open Anyway**.
-
 ## Screenshots
 
 The events you have subscribed to will be presented as colored bars along the edge of the screen.
