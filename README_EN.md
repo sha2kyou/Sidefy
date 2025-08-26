@@ -1,6 +1,6 @@
 # SideCalendar
 
-[中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
+[中文](https://github.com/sha2kyou/SideCalendar/blob/main/README.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README_EN.md)
 
 **SideCalendar** is a macOS menu bar app that unifies events and information from various sources (Calendar, Reminders, RSS, GitHub, etc.) into a dynamic screen edge information stream.
 
