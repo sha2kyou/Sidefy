@@ -13,7 +13,7 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 ## 功能
 
-| 功能 | lite/github | pro/appstore |
+| 功能 | lite / github | pro / appstore |
 | :--- | :---: | :---: |
 | 日历和提醒事项集成 | ✅ | ✅ |
 | GitHub 集成 | ❌ | ✅ |
