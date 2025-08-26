@@ -33,10 +33,6 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 在 [Release 页面](https://github.com/sha2kyou/SideCalendar/releases/latest) 手动下载最新版，将应用拖入「应用程序」目录。
 
-## 安装提示
-
-若首次运行提示 *“Apple 无法验证 SideCalendar 是否包含恶意软件”*，请前往 `系统设置 → 隐私与安全性` 并选择 **仍要打开**。
-
 ## 截图
 
 你订阅的事件会在屏幕边缘以彩条的形式呈现。
