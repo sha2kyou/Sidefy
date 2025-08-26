@@ -11,6 +11,19 @@
 ## Minimum Requirements
 macOS 14.0 (Sonoma) or later.
 
+## Features
+
+| Feature | Lite / GitHub | Pro |
+| :--- | :---: | :---: |
+| Calendar & Reminders Integration | ✅ | ✅ |
+| GitHub Integration | ❌ | ✅ |
+| RSS Reader Integration | ❌ | ✅ |
+| Plugin Marketplace | ❌ | ✅ |
+| Custom Plugins (Coming Soon) | ❌ | ✅ |
+| iCloud Configuration Sync (Coming Soon) | ❌ | ✅ |
+| iOS Event Sync (Coming Soon) | ❌ | ✅ |
+| Advanced Settings | ❌ | ✅ |
+
 ## Installation
 
 ### Option 1 (Recommended)
