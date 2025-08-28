@@ -20,7 +20,7 @@ macOS 14.0 (Sonoma) or later.
 | RSS Reader Integration | ❌ | ✅ |
 | Plugin Marketplace | ❌ | ✅ |
 | Custom Plugins (Coming Soon) | ❌ | ✅ |
-| iCloud Configuration Sync (Coming Soon) | ❌ | ✅ |
+| iCloud Configuration Sync | ❌ | ✅ |
 | iOS Event Sync (Coming Soon) | ❌ | ✅ |
 | Advanced Settings | ❌ | ✅ |
 
