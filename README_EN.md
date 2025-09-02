@@ -50,15 +50,11 @@ Steps:
 
 The events you have subscribed to will be presented as colored bars along the edge of the screen.
 
-<img width="3842" height="2162" alt="1Capture_2025-08-22_20 48 14" src="https://github.com/user-attachments/assets/e2a66ac0-0586-481e-baad-b9add99795a1" />
+<img width="1920" height="1080" alt="1Capture_2025-08-29_09 55 02" src="https://github.com/user-attachments/assets/52dd6b0d-1889-428e-b5f1-eb10802254d1" />
 
 If you have many events, the colored bars may even merge into a rainbow!
 
-<img width="3842" height="2162" alt="1Capture_2025-08-22_20 52 51" src="https://github.com/user-attachments/assets/41288a69-5724-42b7-bb2f-cd0ef5c857fd" />
-
 There is also a **Simplie Bubble** mode, suitable for users who only want to view updates without delving into details.
-
-<img width="3842" height="2162" alt="1Capture_2025-08-23_13 14 06" src="https://github.com/user-attachments/assets/f00c6c45-a4a7-4847-b02c-f771f2622b91" />
 
 ## To-Do List
 
@@ -67,7 +63,7 @@ There is also a **Simplie Bubble** mode, suitable for users who only want to vie
 - [x] Integrate the plugin marketplace and set default plugins  
 - [x] Implement asynchronous multi-plugin loading  
 - [ ] Add support for custom plugins
-- [ ] Add iCloud synchronization
+- [x] Add iCloud synchronization
 - [ ] Add iOS synchronization
 - [ ] ~~Integrate CalDav plugin~~  
 - [x] Integrate Github Star plugin 
