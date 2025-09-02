@@ -5,15 +5,14 @@
 **SideCalendar** is a macOS menu bar app that unifies events and information from various sources (Calendar, Reminders, RSS, GitHub, etc.) into a dynamic screen edge information stream.
 
 > [!WARNING]  
-> This。application is closed-source. The repository is solely for release distribution and issue tracking.  
-> This。application is still under development and may have some issues affecting usage. Contributions via Issues are welcome!
+> No longer providing GitHub Releases. Please download the latest version from the App Store.
 
 ## Minimum Requirements
 macOS 14.0 (Sonoma) or later.
 
 ## Features
 
-| Feature | lite / github | pro / appstore |
+| Feature | lite | pro |
 | :--- | :---: | :---: |
 | Price | FREE | $2.99 (Time limit 30% off)|
 | Calendar & Reminders Integration | ✅ | ✅ |
