@@ -34,15 +34,11 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 你订阅的事件会在屏幕边缘以彩条的形式呈现。
 
-<img width="3842" height="2162" alt="1Capture_2025-08-22_20 48 14" src="https://github.com/user-attachments/assets/e2a66ac0-0586-481e-baad-b9add99795a1" />
+<img width="1920" height="1080" alt="1Capture_2025-08-29_09 55 02" src="https://github.com/user-attachments/assets/52dd6b0d-1889-428e-b5f1-eb10802254d1" />
 
 如果你事件比较多，彩条甚至会连成一道彩虹！
 
-<img width="3842" height="2162" alt="1Capture_2025-08-22_20 52 51" src="https://github.com/user-attachments/assets/41288a69-5724-42b7-bb2f-cd0ef5c857fd" />
-
 还有简易气泡模式，适合只想看动态不想关注详情的情况。
-
-<img width="3842" height="2162" alt="1Capture_2025-08-23_13 14 06" src="https://github.com/user-attachments/assets/f00c6c45-a4a7-4847-b02c-f771f2622b91" />
 
 ## 待办项
 
@@ -51,7 +47,7 @@ macOS 14.0 (Sonoma) 或更高版本。
 - [x] 完成插件市场接入，并设置默认插件
 - [x] 完成多插件异步加载
 - [ ] 加入自定义插件功能
-- [ ] 增加 iCloud 同步
+- [x] 增加 iCloud 同步
 - [ ] 增加 iOS 同步
 - [ ] ~~接入 CalDav 插件~~
 - [x] 接入 Github Star 插件
