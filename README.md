@@ -4,16 +4,15 @@
 
 **SideCalendar**是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。
 
->[!WARNING]
->本应用为闭源软件，仓库仅用于版本发布与问题反馈。  
->本应用尚处于开发阶段，可能会有一些影响使用的问题，欢迎大家提交 Issues！
+>[!WARNING] 
+>不再提供 Github Release，最新版请在 AppStore 下载。
 
 ## 最低运行需求
 macOS 14.0 (Sonoma) 或更高版本。
 
 ## 功能
 
-| 功能 | lite / github | pro / appstore |
+| 功能 | lite | pro |
 | :--- | :---: | :---: |
 | 价格 | 免费 | $2.99（限时七折）|
 | 日历和提醒事项集成 | ✅ | ✅ |
@@ -31,22 +30,6 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 [![download](https://oss.tr1ck.cn/image/20250826/6VuezL.png)](https://apps.apple.com/cn/app/sidecalendar/id6751482006)
 
-### 方式二
-
-您可以通过 Homebrew 安装 SideCalendar。如果您尚未安装 Homebrew，请访问其官方网站获取安装指南。
-
-安装步骤：
-
-1. **添加 Homebrew Tap:**
-    ```bash
-    brew tap sha2kyou/casks
-    ```
-
-2. **安装 SideCalendar:**
-   ```bash
-   brew install --cask side-calendar
-   ```
-   
 ## 截图
 
 你订阅的事件会在屏幕边缘以彩条的形式呈现。
