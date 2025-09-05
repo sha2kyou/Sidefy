@@ -7,6 +7,10 @@
 > [!WARNING]  
 > No longer providing GitHub Releases. Please download the latest version from the App Store.
 
+## Video
+https://github.com/user-attachments/assets/51723d9a-b808-4ad5-b3e1-a73eb5ae34cc
+
+
 ## Minimum Requirements
 macOS 14.0 (Sonoma) or later.
 
