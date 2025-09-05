@@ -21,7 +21,7 @@ macOS 14.0 (Sonoma) or later.
 | Plugin Marketplace | ❌ | ✅ |
 | Custom Plugins (Coming Soon) | ❌ | ✅ |
 | iCloud Configuration Sync | ❌ | ✅ |
-| iOS Event Sync (Coming Soon) | ❌ | ✅ |
+| ~~iOS Event Sync (Coming Soon)~~ | ❌ | ✅ |
 | Advanced Settings | ❌ | ✅ |
 
 ## Installation
