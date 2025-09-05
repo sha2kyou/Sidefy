@@ -7,6 +7,12 @@
 >[!WARNING] 
 >不再提供 Github Release，最新版请在 AppStore 下载。
 
+## 预览视频
+
+https://github.com/user-attachments/assets/51723d9a-b808-4ad5-b3e1-a73eb5ae34cc
+
+
+
 ## 最低运行需求
 macOS 14.0 (Sonoma) 或更高版本。
 
