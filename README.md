@@ -54,7 +54,7 @@ macOS 14.0 (Sonoma) 或更高版本。
 - [x] 完成多插件异步加载
 - [ ] 加入自定义插件功能
 - [x] 增加 iCloud 同步
-- [ ] 增加 iOS 同步
+- [ ] ~~增加 iOS 同步~~
 - [ ] ~~接入 CalDav 插件~~
 - [x] 接入 Github Star 插件
 - [x] 接入 Github PR 插件
