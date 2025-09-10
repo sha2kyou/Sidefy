@@ -18,7 +18,7 @@ macOS 14.0 (Sonoma) or later.
 
 | Feature | lite | pro |
 | :--- | :---: | :---: |
-| Price | FREE | $2.99 (Time limit 30% off)|
+| Price | FREE | $3.99 (Time limit 30% off)|
 | Calendar & Reminders Integration | ✅ | ✅ |
 | GitHub Integration | ❌ | ✅ |
 | RSS Reader Integration | ❌ | ✅ |
