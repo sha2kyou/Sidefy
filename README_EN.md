@@ -20,12 +20,13 @@ macOS 14.0 (Sonoma) or later.
 
 | Feature | lite | pro |
 | :--- | :---: | :---: |
-| Price | FREE | $3.99 (Time limit 30% off)|
+| Price | FREE | Time limit 30% off|
 | Calendar & Reminders Integration | ✅ | ✅ |
+| Downloadable Plugins (Coming Soon) | ✅ | ✅ |
 | GitHub Integration | ❌ | ✅ |
 | RSS Reader Integration | ❌ | ✅ |
 | Plugin Marketplace | ❌ | ✅ |
-| Custom Plugins (Coming Soon) | ❌ | ✅ |
+| Custom Plugins | ❌ | ✅ |
 | iCloud Configuration Sync | ❌ | ✅ |
 | ~~iOS Event Sync (Coming Soon)~~ | ❌ | ✅ |
 | Advanced Settings | ❌ | ✅ |
