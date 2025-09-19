@@ -36,27 +36,3 @@ macOS 14.0 (Sonoma) or later.
 ### Option 1 (Recommended)
 
 [![download](https://oss.tr1ck.cn/image/20250826/6VuezL.png)](https://apps.apple.com/cn/app/sidecalendar/id6751482006)
-    
-## Screenshots
-
-The events you have subscribed to will be presented as colored bars along the edge of the screen.
-
-<img width="1920" height="1080" alt="1Capture_2025-08-29_09 55 02" src="https://github.com/user-attachments/assets/52dd6b0d-1889-428e-b5f1-eb10802254d1" />
-
-If you have many events, the colored bars may even merge into a rainbow!
-
-There is also a **Simplie Bubble** mode, suitable for users who only want to view updates without delving into details.
-
-## To-Do List
-
-- [x] Improve the plugin framework  
-- [x] Optimize multi-plugin loading performance  
-- [x] Integrate the plugin marketplace and set default plugins  
-- [x] Implement asynchronous multi-plugin loading  
-- [x] Add support for custom plugins
-- [x] Add iCloud synchronization
-- [ ] ~~Add iOS synchronization~~
-- [ ] ~~Integrate CalDav plugin~~  
-- [x] Integrate Github Star plugin 
-- [x] Integrate Github PR plugin   
-- [x] Implement readability adjustment settings  
