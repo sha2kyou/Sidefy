@@ -12,24 +12,8 @@
 ## Video
 https://github.com/user-attachments/assets/51723d9a-b808-4ad5-b3e1-a73eb5ae34cc
 
-
 ## Minimum Requirements
 macOS 14.0 (Sonoma) or later.
-
-## Features
-
-| Feature | lite | pro |
-| :--- | :---: | :---: |
-| Price | FREE | Time limit 30% off|
-| Calendar & Reminders Integration | ✅ | ✅ |
-| Downloadable Plugins (Coming Soon) | ✅ | ✅ |
-| GitHub Integration | ❌ | ✅ |
-| RSS Reader Integration | ❌ | ✅ |
-| Plugin Marketplace | ❌ | ✅ |
-| Custom Plugins | ❌ | ✅ |
-| iCloud Configuration Sync | ❌ | ✅ |
-| ~~iOS Event Sync (Coming Soon)~~ | ❌ | ✅ |
-| Advanced Settings | ❌ | ✅ |
 
 ## Installation
 
