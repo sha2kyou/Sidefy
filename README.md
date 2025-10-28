@@ -1,4 +1,4 @@
-# SideCalendar
+# Sidefy
 
 [(Pre-)Release Notes](https://github.com/sha2kyou/Sidefy/releases)
 
